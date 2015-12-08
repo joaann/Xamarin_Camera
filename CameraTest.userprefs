@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="iOS/CameraTest.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/AppDelegate.cs">
+    <Files>
+      <File FileName="CameraTest.cs" Line="3" Column="21" />
+      <File FileName="Pages/CameraPage.xaml" Line="10" Column="27" />
+      <File FileName="Pages/CameraPage.xaml.cs" Line="103" Column="76" />
+      <File FileName="Droid/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="Droid/MainApplication.cs" Line="20" Column="10" />
+      <File FileName="iOS/AppDelegate.cs" Line="15" Column="40" />
+      <File FileName="iOS/Main.cs" Line="17" Column="51" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
